@@ -8,8 +8,8 @@
 
 ### 1. Define, Train and infer with u-net using u-net
   
-[![Tutorial 1](https://colab.research.google.com/assets/colab-badge.svg)]()
-| Comming soon
+[![Tutorial 1](https://colab.research.google.com/assets/colab-badge.svg)]()  
+> Comming soon
 * Define u-net model by yourself
 * Train your model
 * Infer with your model
